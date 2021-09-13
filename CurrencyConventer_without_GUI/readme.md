@@ -1,4 +1,4 @@
-# Currency Converter v2
+# Currency Converter
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Class Info](#Classes)
