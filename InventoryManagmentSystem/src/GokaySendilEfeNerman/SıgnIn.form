@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GokaySendilEfeNerman.SıgnIn">
+  <grid id="27dc6" binding="panel1" layout-manager="GridLayoutManager" row-count="5" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <preferredSize width="360" height="240"/>
+    </properties>
+    <border type="none" title="Sign In" title-justification="2" title-position="1">
+      <title-color color="-131066"/>
+    </border>
+    <children>
+      <component id="622be" class="javax.swing.JLabel" binding="PasswordLabel">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="JetBrains Mono" size="12" style="1"/>
+          <foreground color="-2724489"/>
+          <text value="Password:"/>
+        </properties>
+      </component>
+      <component id="87c92" class="javax.swing.JTextField" binding="usernameField">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-1647648"/>
+        </properties>
+      </component>
+      <component id="2b391" class="javax.swing.JTextField" binding="passwordField">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-1647648"/>
+        </properties>
+      </component>
+      <hspacer id="96741">
+        <constraints>
+          <grid row="0" column="5" row-span="2" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="b08bf">
+        <constraints>
+          <grid row="2" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <vspacer id="2b1ad">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="3" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="af68b">
+        <constraints>
+          <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="1e570" class="javax.swing.JLabel" binding="UserNameLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="1" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="JetBrains Mono" size="12" style="1"/>
+          <foreground color="-2724489"/>
+          <text value="Username:"/>
+        </properties>
+      </component>
+      <hspacer id="c68c1">
+        <constraints>
+          <grid row="0" column="0" row-span="2" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <component id="7587a" class="javax.swing.JButton" binding="signinButton">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1647648"/>
+          <font name="JetBrains Mono" size="12" style="1"/>
+          <foreground color="-15655103"/>
+          <opaque value="false"/>
+          <text value="Sign In"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
