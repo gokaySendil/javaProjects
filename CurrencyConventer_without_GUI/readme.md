@@ -25,4 +25,7 @@ Project is created with:
 * Constructor()=>Sets the initial attribute values
 * conncet() => Connects to api
 * read() => Reads the respond from api
-* make_request() =>gets the conversion rate from read file
+* currency_read =>gets the all currencies conversion rate from read file
+* get_specific_rate()=>Get the specific rate of a currency
+* showmenu() => shows the selection menu to user
+* get_rate()=> returns the conversion rate of selection
