@@ -31,3 +31,15 @@ Project is created with:
 * add_items()=> adds the inital items to comboboxes
 * Constructor()=>This has action listener of calculate button
 * Getters() and Setters()=>Gets and sets the values of attributes
+### CurrencyConverter
+#### Attributes
+* String API_KEY => Stores api key value
+* String from => First currency name 
+* String to => Second currency name
+* String amount => amount to be converted
+* String urls=> api url
+#### Methods
+* Constructor()=>Sets the initial attribute values
+* conncet() => Connects to api
+* read() => Reads the respond from api
+* make_request() =>gets the conversion rate from read file
