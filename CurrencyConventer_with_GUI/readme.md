@@ -1,7 +1,7 @@
 # Currency Converter v2
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Class Info](#Classes and Methods)
+* [Class Info](#Classes)
 
 ## General info
 This project is simple currency converter.User enters the amount and select 2 currency types one is from other is to.Then the program converts to amount to second currency due to current convertsion rate.
@@ -13,7 +13,7 @@ Project is created with:
 * json jar file
 * API(https://www.exchangerate-api.com)
 
-## Classes and Methods
+## Classes
 ### ComboItem
 #### Attributes
 * String key => Display value in the combo box
