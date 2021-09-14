@@ -20,6 +20,7 @@ Project is created with:
 ## Class-Info
 ### CurrencyConverter
 #### Attributes
+
 *String API_KEY => holds the user's API_KEY value
 *String from => First selected currency
 *String to => Second selected currency
@@ -27,7 +28,7 @@ Project is created with:
 *String url = holds api url
 
 
-###Methods
+### Methods
 *connect(String key) => key is the name of the currency that is amount of money be converted to.Method connects to api and checks the connection is OK or not.
 * read(HttpURLConnection request) => reads the respond from api and returns as a string.
 * make_request(String req,String key) => returns the convertion rate of "key" currency.
