@@ -17,7 +17,7 @@ Project is created with:
 * Exchange rate api(https://www.exchangerate-api.com)
 
 
-## Classe-Info
+## Class-Info
 ### CurrencyConverter
 #### Attributes
 * String API_KEY=> stores the personal api key of user.
