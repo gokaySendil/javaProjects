@@ -16,4 +16,4 @@ Project is created with:
 
 ## Setup
 * First you need to run mysql file on mysql local server and have to change your username and password fields in Connection class
-* You need to locate the jar file in project structure tab in your idea
+* You need to locate the jar file in project structure tab in your IDE
