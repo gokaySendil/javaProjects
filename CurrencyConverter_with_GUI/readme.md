@@ -21,11 +21,11 @@ Project is created with:
 ### CurrencyConverter
 #### Attributes
 
-*String API_KEY => holds the user's API_KEY value
-*String from => First selected currency
-*String to => Second selected currency
-*String amount => money amount that will be converted
-*String url = holds api url
+* String API_KEY => holds the user's API_KEY value
+* String from => First selected currency
+* String to => Second selected currency
+* String amount => money amount that will be converted
+* String url = holds api url
 
 
 ### Methods
