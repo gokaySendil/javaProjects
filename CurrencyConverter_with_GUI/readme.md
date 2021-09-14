@@ -1,5 +1,5 @@
 # Currency Converter-GUI version
-Table of contents
+## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Classes](#Class-Info)
