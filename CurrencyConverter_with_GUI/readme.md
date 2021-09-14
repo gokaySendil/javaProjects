@@ -1,4 +1,4 @@
-#Currency Converter-GUI version
+# Currency Converter-GUI version
 Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -27,7 +27,7 @@ Project is created with:
 * String amount => money amount that will be converted
 * String url = holds api url
 ### Methods
-*connect(String key) => key is the name of the currency that is amount of money be converted to.Method connects to api and checks the connection is OK or not.
+* connect(String key) => key is the name of the currency that is amount of money be converted to.Method connects to api and checks the connection is OK or not.
 * read(HttpURLConnection request) => reads the respond from api and returns as a string.
 * make_request(String req,String key) => returns the convertion rate of "key" currency.
 ### ComboItem
