@@ -1,4 +1,4 @@
-# Inventory Managment System
+# Inventory Management System
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
